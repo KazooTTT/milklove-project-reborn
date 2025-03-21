@@ -102,10 +102,7 @@ const handleClick = () => {
 
 /* Style for the highest vote node */
 .highest-vote {
-  background-color: #4CAF50 !important;
-  /* Green background */
-  border: 2px solid #2E7D32 !important;
-  /* Darker green border */
-  color: white !important;
+  background: linear-gradient(to left, #ffc0cb, #90ee90) !important;
+  color: black !important;
 }
 </style>

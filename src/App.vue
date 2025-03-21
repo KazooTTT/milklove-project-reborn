@@ -93,6 +93,17 @@ async function layoutGraph(direction) {
   justify-content: center;
 }
 
+.layout-panel .icon {
+  width: 40px;
+  height: 40px;
+  color: white;
+}
+
+.icon-path {
+  fill: currentColor;
+  stroke: currentColor;
+}
+
 .checkbox-panel {
   display: flex;
   align-items: center;
