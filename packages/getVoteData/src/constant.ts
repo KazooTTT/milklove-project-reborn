@@ -1,16 +1,3 @@
-// [
-//   "第五集", 1
-//   "第七集",
-//   "第八集",
-//   "第十六集",
-//   "第十七集",
-//   "第十八集",
-//   "第二十集",
-//   "第二十二集",
-//   "第二十三集",
-//   "第 23.5 集最终章",
-// ];
-
 export const weiboList = [
   {
     Link: "https://weibo.com/7906190340/5141159233719310",
@@ -54,7 +41,7 @@ export const weiboList = [
   },
   {
     Link: "https://weibo.com/7754282622/5141896336509339",
-    Author: "- 知 - 白 -",
+    Author: "-知-白-",
     Chapter: "第九集",
   },
   {
@@ -99,7 +86,7 @@ export const weiboList = [
   },
   {
     Link: "https://weibo.com/7754282622/5143428434231750",
-    Author: "- 知 - 白 -",
+    Author: "-知-白-",
     Chapter: "第十八集",
   },
   {
