@@ -3,7 +3,7 @@
     "@types/node": "^22.13.10",
     "@vitest/ui": "^3.0.9",
     "typescript": "^5.8.2",
-    "vitest": "^3.0.9"
+    "vitest": "^4.1.0"
   },
   "name": "getdata",
   "version": "1.0.0",
